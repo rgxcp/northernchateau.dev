@@ -2,3 +2,18 @@ baseURL: http://example.org/
 languageCode: en-us
 title: Northern Chateau's
 theme: papermod
+params:
+  homeInfoParams:
+    Title: Hello, Travelers! 👋
+    Content: My (current) coping mechanism to stay sane during this insane time. Will post everything I know about techs, films, music, designs, or anything else that interests me.
+  socialIcons:
+    - name: GitHub
+      url: https://github.com/rgxcp
+    - name: Twitter
+      url: https://twitter.com/rgcppp
+    - name: Letterboxd
+      url: https://letterboxd.com/rgxcp
+    - name: Spotify
+      url: https://open.spotify.com/user/rgcppp
+    - name: Instagram
+      url: https://instagram.com/rgxcp
