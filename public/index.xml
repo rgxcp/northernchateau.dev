@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Northern Chateau&#39;s</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Northern Chateau&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jun 2022 20:50:56 +0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capture Your Days</title>
+      <link>http://example.org/posts/2022/06/3-capture-your-days/</link>
+      <pubDate>Mon, 06 Jun 2022 20:50:56 +0700</pubDate>
+      
+      <guid>http://example.org/posts/2022/06/3-capture-your-days/</guid>
+      <description>puts &amp;#34;How was your day?&amp;#34; Prologue Lorem ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Cool Peeps</title>
+      <link>http://example.org/posts/2022/06/2-cool-peeps/</link>
+      <pubDate>Mon, 06 Jun 2022 20:50:22 +0700</pubDate>
+      
+      <guid>http://example.org/posts/2022/06/2-cool-peeps/</guid>
+      <description>puts &amp;#34;Are you?&amp;#34; Prologue I keep my circle small. Not because I&amp;rsquo;m trying to be Michael Corleone, but because I&amp;rsquo;m simply an introverted-socially awkward person 😅 (chill, issa joke, in case you missed it).
+Not a lot of people come into my life. So, if you see your name in here, it means — you guessed it — you&amp;rsquo;re cool peeps!
+Main Course Sorted chronologically unless specified.
+Everlasting  R R R CJS JPJ A  &amp;lsquo;11-ish (sorted alphabetically) AZM DS GAM IDGAP MSSP SFP TGH  &amp;lsquo;12-ish MFDL MLY FAJ  &amp;lsquo;13-ish IMD MAMA NAKF  &amp;lsquo;14-ish PBH HS  &amp;lsquo;15-ish (last) NDP GAR  &amp;lsquo;21-ish MFK AHP AH  &amp;lsquo;22-ish MP  </description>
+    </item>
+    
+    <item>
+      <title>Well Hello, World!</title>
+      <link>http://example.org/posts/2022/06/1-well-hello-world/</link>
+      <pubDate>Mon, 06 Jun 2022 20:49:45 +0700</pubDate>
+      
+      <guid>http://example.org/posts/2022/06/1-well-hello-world/</guid>
+      <description>puts &amp;#34;What a classic stereotype!&amp;#34; 🥑 Appetizer Hello, there! Welcome aboard!
+Welcome to this (super simple) blog. Here, I will be sharing some tutorials, tips, or just some info related to techs, films, music, designs, and anything that pops from my mind.
+Why am I doing this? Simple, as they said: &amp;ldquo;The best way to learn is to teach&amp;rdquo;. I think it&amp;rsquo;s cool if I can share my knowledge. I think it&amp;rsquo;s amazing if others can benefit from what I know.</description>
+    </item>
+    
+  </channel>
+</rss>
