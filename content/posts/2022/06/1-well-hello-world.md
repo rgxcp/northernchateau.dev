@@ -12,7 +12,7 @@ puts "What a classic stereotype!"
 
 **Hello, there! Welcome aboard!**
 
-Welcome to this _(super simple)_ blog. Here, I will be sharing some tutorials, tips, or just some info related to techs, films, music, designs, and anything that pops from my mind.
+Welcome to this _(super simple)_ blog. Here, I will be sharing some tutorials, tips, or just some info related to techs, films, music, designs, or anything that pops from my mind.
 
 Why am I doing this? Simple, as they said: **_"The best way to learn is to teach"_**. I think it's cool if I can share my knowledge. I think it's amazing if others can benefit from what I know. For me, there's a happy feeling every time I help/teach my friends.
 
