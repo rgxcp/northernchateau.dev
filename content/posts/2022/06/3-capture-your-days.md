@@ -20,7 +20,7 @@ That’s one powerful question I got daily — on weekdays — from the team in 
 
 It's such a unique and fun thing to do. So I was like: **_"Why don't I apply it to my personal life? Write how was my day in a diary?"_**. And here I’m, one month passed of doing it, and still going strong. I'm always happy writing it and happy to be able to recall my days, whether it was an amazing or a bad day.
 
-![Diary Book](northernchateau.dev/diary_book.jpg)
+![Diary Book](../../../../diary_book.jpg)
 
 I use [Joyko](https://www.tokopedia.com/joyko/notebook-buku-tulis-catatan-diary-agenda-joyko-soft-cover-red-a6) for my diary book, A6 size because it's compact, with red color because... I don't know, it seems kinda cool and has a mysterious vibe 😅
 
