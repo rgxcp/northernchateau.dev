@@ -1,6 +1,6 @@
 baseURL: https://rgxcp.github.io/northernchateau.dev
 languageCode: en-us
-title: Northern Chateau's
+title: North Chateau's
 theme: papermod
 params:
   homeInfoParams:
