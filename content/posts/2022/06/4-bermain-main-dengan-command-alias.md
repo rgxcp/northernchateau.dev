@@ -1,7 +1,7 @@
 ---
 title: "Bermain-main dengan Command alias"
 date: 2022-06-14T18:25:50+07:00
-draft: true
+draft: false
 ---
 
 ```ruby
