@@ -14,13 +14,13 @@ Sebagai seorang _software engineer_ yang baik, kita jangan sampai takut untuk **
 
 # 🥩 Main Course
 
-A. Apa itu command `alias`?
+### A. Apa itu command `alias`?
 
 Mungkin nama command ini sudah sangat _self explanatory_. [`alias`](<https://en.wikipedia.org/wiki/Alias_(command)>) adalah sebuah command standard yang disediakan oleh sistem operasi berbasis Unix. Fungsi utamanya adalah tidak lain dan tidak bukan untuk membuat **"alias"**, duh 🙄
 
 Untuk lebih jelasnya, dengan command `alias` ini kita bisa mengubah cara menjalankan/pemanggilan sebuah command dengan cara yang kita mau. Masih bingung? Coba langsung kita praktekin aja di bawah!
 
-B. Cara menggunakan command `alias`
+### B. Cara menggunakan command `alias`
 
 Secara sederhana, begini cara menggunakan command `alias`:
 
@@ -44,7 +44,7 @@ grsh1
 
 Alias tersebut saat dipanggil — _under the hood_ — akan menjalankan command `git reset --soft HEAD~1`.
 
-C. Membuat `alias` _persisted_
+### C. Membuat `alias` _persisted_
 
 Perlu diingat, jika kita menggunakan cara di atas, alias tersebut hanya akan valid untuk sesi terminal di mana alias tersebut dibuat. Jika kita membuka sesi terminal baru, maka alias `grsh1` tersebut akan hilang dan tidak bisa digunakan lagi.
 
@@ -81,7 +81,7 @@ Untuk cara "ribet" ini, caranya cukup buka _config file-Shell_ yang kalian gunak
 alias grsh1="git reset --soft HEAD~1"
 ```
 
-D. Trivia
+### D. Trivia
 
 Setiap kali kita merubah _config file-Shell_ yang kita gunakan, kita bisa meload perubahan yang sudah kita buat tanpa harus menutup-membuka kembali terminal. Caranya adalah dengan menggunakan command `source` dengan cara seperti ini:
 
