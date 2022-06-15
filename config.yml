@@ -4,6 +4,7 @@ title: North Chateau's
 theme: papermod
 params:
   env: production
+  defaultTheme: dark
   assets:
     favicon: "/icons/favicon.ico"
     favicon16x16: "/icons/favicon-16x16.png"
