@@ -5,6 +5,7 @@ theme: papermod
 params:
   env: production
   defaultTheme: dark
+  showReadingTime: true
   assets:
     favicon: "/icons/favicon.ico"
     favicon16x16: "/icons/favicon-16x16.png"
