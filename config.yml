@@ -3,6 +3,7 @@ languageCode: en-us
 title: North Chateau's
 theme: papermod
 params:
+  env: production
   homeInfoParams:
     Title: Hello, Travelers! 👋
     Content: My (current) coping mechanism to stay sane during this insane time. Will post everything I know about techs, films, music, designs, or anything else that interests me.
