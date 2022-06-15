@@ -4,6 +4,12 @@ title: North Chateau's
 theme: papermod
 params:
   env: production
+  assets:
+    favicon: "/icons/favicon.ico"
+    favicon16x16: "/icons/favicon-16x16.png"
+    favicon32x32: "/icons/favicon-32x32.png"
+    apple_touch_icon: "/icons/apple-touch-icon.png"
+    safari_pinned_tab: "/icons/favicon.ico"
   homeInfoParams:
     Title: Hello, Travelers! 👋
     Content: My (current) coping mechanism to stay sane during this insane time. Will post everything I know about techs, films, music, designs, or anything else that interests me.
