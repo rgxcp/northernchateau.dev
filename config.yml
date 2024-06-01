@@ -1,6 +1,6 @@
-baseURL: https://www.northchateau.com
+baseURL: https://blog.red--string.com
 languageCode: en-us
-title: North Chateau's
+title: Red--String's
 theme: papermod
 params:
   env: production
